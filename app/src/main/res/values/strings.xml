@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyJobs</string>
+    <string name="username_title">อีเมล์หรือเบอร์โทรศัพท์</string>
+    <string name="password_title">รหัสผ่าน</string>
+    <string name="button_login">เข้าสู่ระบบ</string>
+    <string name="register">สร้างบัญชีผู้ใช้ใหม่</string>
+    <string name="forget_password">ลืมรหัสผ่าน?</string>
+    <string name="another_login">เข้าสู่ระบบโดยใช้</string>
+</resources>
